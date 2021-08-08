@@ -1,4 +1,4 @@
-# **THIS IS FAKE RUBBISH PCSX4 EMULATOR!! DO NOT USE IT!!**
+# **THIS IS FAKE RUBBISH PCSX4 EMULATOR!!! DO NOT USE IT!!**
     ....................../´¯/) 
     
     ....................,/¯../ 
